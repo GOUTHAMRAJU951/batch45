@@ -1,0 +1,10 @@
+package dayfour;
+
+public class persondetails {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
